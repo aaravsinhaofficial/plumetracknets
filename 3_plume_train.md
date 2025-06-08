@@ -1,5 +1,5 @@
 # Instructions/Scripts to train agents from scratch
-* Be sure to have run the [Prerequisites](0_plume_prereqs.md)
+* Make sure you have ran the [Prerequisites](0_plume_prereqs.md)
 * Train 14 RNNs and 14 MLPs x (2, 4, ... 12) timesteps of memory to create PLUMEZOO (shown below)
 * Proceed to [Agent evaluation](2_plume_eval.md)
 * Once you've run the agent evaluations, you can now proceed to [Figure/Report generation](1_plume_report.md) 
